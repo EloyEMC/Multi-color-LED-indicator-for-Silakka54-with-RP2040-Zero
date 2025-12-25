@@ -3,6 +3,7 @@
 This guide explains how to configure the internal WS2812 LED on RP2040 Zero as a multi-color indicator for keyboard layers and caps lock on the Silakka54 keyboard.
 
 
+![Editando el README.md desde GitHub](multimedia/WhatsApp-Video-2025-12-25-at-23.07.20.gif)
 ![Editando el README.md desde GitHub](multimedia/Silakka54_Layout_LED_RGB_1.jpeg)
 [Ver demostración del LED](multimedia/Silakka54_Layout_LED_RGB.mp4)
 
