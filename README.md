@@ -54,6 +54,23 @@ See [TROUBLESHOOTING.md](TROUBLESHOOTING.md) for common issues and solutions.
 
 See [TECHNICAL.md](TECHNICAL.md) for in-depth technical information.
 
+# LED Indicator Setup for Silakka54 with RP2040 Zero
+
+> This project extends the functionality of the [Silakka54](https://github.com/Squalius-cephalus/silakka54) split keyboard.
+
+## 📋 Prerequisites
+
+Before starting, ensure you have:
+1. A working [Silakka54](https://github.com/Squalius-cephalus/silakka54) QMK firmware base
+2. A Silakka54 keyboard with RP2040 Zero installed
+3. Basic knowledge of QMK compilation
+
+## 🛠️ Compatible Hardware
+
+- **Keyboard:** [Silakka54](https://github.com/Squalius-cephalus/silakka54) by Squalius-cephalus
+- **Controller:** RP2040 Zero
+- **LED used:** Internal WS2812 (connected to GPIO16)
+
 ## License
 
 This project is open source and available under the MIT License.
